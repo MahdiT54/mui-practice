@@ -1,10 +1,10 @@
 import './App.css';
-import ButtonPage from './components/ButtonPage';
+import ControlledAccordion from './components/Accordion';
 
 function App() {
   return (
     <div className="App">
-      <ButtonPage />
+      <ControlledAccordion/>
     </div>
   );
 }
